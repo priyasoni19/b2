@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(93, 26, 188);
+}
+.pqr{
+    background-color: rgb(255, 105, 178);
+    color: rgb(12, 12, 12);
+    width: 100%;
+    height:20vh;
+    position: sticky;
+    top: 0px;
+}
+.abcd{
+ 
+    padding-top:5px ;
+    
+    color: black;
+    position: absolute;
+    left: 45%;
+    top: 25%;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+
+.logo{
+    width: 150px;
+}
+.xyz{
+    list-style-type: none;
+    margin: 3px;
+    padding: 3px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    left: 78%;
+    top: 28%;
+    font-size: large;
+ 
+}
+
+.xyz a {
+    text-decoration: none;
+}
+.xyz li{
+    display: inline-block;
+    margin-left: 10px;
+}
+.xyz main{
+    display: flex;
+justify-content: space-between;
+}
+.pf{
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    text-align: center;
+    color: rgb(78, 6, 46);
+}
+.to h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+font-size: 30px;
+line-height: 60px;
+text-transform: uppercase;
+text-align: center;
+color: #000000;
+}
+.toh6{
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: solid darkcyan;
+    text-align: center;
+}
+
+.ds{
+    border: ridge;
+    background-color: palevioletred;
+    
+
+
+}
+.spe{
+    text-shadow: 1px 1px 2px rgb(193, 11, 114), 0 0 25px rgb(43, 43, 121), 0 0 5px rgb(237, 10, 229);
+    text-align: center;
+    margin: 30px;
+}
+
+    
+    
+
+.pri{
+    display: flex;
+    justify-content: space space-between;
+}
+
+
+
+.gs{
+    font-family: cursive;
+    display: flex;
+    text-align: center;
+    font: white;
+    
+
+}
+.gucci{
+    
+    background-color: pink;
+}
+.form1{
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+  
+}
+.f1{
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: auto  ; 
+    width: 50%;
+    height: 250px;
+    margin-right: 125px;
+    border: 2px solid white;
+    background-color: rgb(165, 84, 141);
+}
+  
+    .f1 input {
+        margin-top: 45px;
+        width: 250px;
+        height: 30px;
+    }
+
+    .f1 button {
+        margin-top: 24px;
+        width: 80px;
+        height: 30px;
+        border: none;
+    }
+.two{
+    margin-bottom: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+   
+    }
+ .one1{
+        background-color: yellow;
+       
+        color: white;
+        padding: 10px;
+        margin: 10px;
+        border: none;
+        }
+
+.ps1{
+    color: deeppink;
+    background-color:pink;
+}
+.footer{
+    display: inline-block;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    color: white;
+}
+
+
+.fdivmain{
+display: grid;
+/* grid-template-columns: auto auto auto; */
+grid-template-columns: 22% 22% 22% 22%;
+justify-content: center;
+margin: 2%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fdivmain div a{
+text-decoration: none;
+color: black;
+}
+.fdivmain h3{
+color: black;
+}
+.flink {
+padding-top: 10px;
+padding-left: 120px;
+}
+footer p {
+padding-top: 10px;
+color: black;
+}
+.fbrands {
+padding: 10px;
+padding-left: 80px;
+}
+
+.fabout {
+padding: 10px;
+}
+
+.fabout input:hover{
+border-radius: 5px;
+}
+
+.fdivmain a:hover {
+/* background-color: #ddd; */
+color: rgba(160, 11, 11, 0.728);
+text-decoration: underline;
+}
